@@ -74,14 +74,6 @@ Click Create Ticket to submit the ticket.
 <h2>Step 2 - Handling a Critical Support Ticket in the Help Desk System</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
 <img src="https://github.com/user-attachments/assets/4cdd2b7d-6212-4216-9a04-b085686d9709" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
